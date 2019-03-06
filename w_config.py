@@ -1,1 +1,0 @@
-api_key="bd702d62b338103be331bcf3ad82565a"
